@@ -1,0 +1,9 @@
+<suite name = "My test suite" parallel ="methods">
+    <test name = "My Test">
+            <classes>
+                <class name ="parallel.BaseClass">
+                </class>
+            </classes>
+        </test>
+</suite>
+
